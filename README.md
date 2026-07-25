@@ -23,4 +23,4 @@ Ce projet a été réalisé pour pratiquer les boucles, les conditions et la log
 
 ## Auteur
 
-Mon
+NGOULOU-NGOULOU ILOKI Patrice Andréa
